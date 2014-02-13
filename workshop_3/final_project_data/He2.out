@@ -152,12 +152,6 @@ Setting geometry variable R to 2.500000
 
   ==> Integral Setup <==
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-sanity check failed! Gaussian94BasisSetParser::parser: Unable to find the basis set for HE in /home/wv111/local/share/psi//basis/cc-pvdz-jkfit.gbs
-file: /home/wv111/psi4release/src/lib/libmints/basisset_parser.cc
-lin
-   Turning off DF and switching to PK method.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  MINTS: Wrapper to libmints.
    by Justin Turney
 
@@ -445,12 +439,6 @@ Setting geometry variable R to 2.612903
 
   ==> Integral Setup <==
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-sanity check failed! Gaussian94BasisSetParser::parser: Unable to find the basis set for HE in /home/wv111/local/share/psi//basis/cc-pvdz-jkfit.gbs
-file: /home/wv111/psi4release/src/lib/libmints/basisset_parser.cc
-line: 362
-   Turning off DF and switching to PK method.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  MINTS: Wrapper to libmints.
    by Justin Turney
 
@@ -738,12 +726,6 @@ Setting geometry variable R to 2.725806
 
   ==> Integral Setup <==
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-sanity check failed! Gaussian94BasisSetParser::parser: Unable to find the basis set for HE in /home/wv111/local/share/psi//basis/cc-pvdz-jkfit.gbs
-file: /home/wv111/psi4release/src/lib/libmints/basisset_parser.cc
-line: 362
-   Turning off DF and switching to PK method.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  MINTS: Wrapper to libmints.
    by Justin Turney
 
@@ -1031,12 +1013,6 @@ Setting geometry variable R to 2.838710
 
   ==> Integral Setup <==
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-sanity check failed! Gaussian94BasisSetParser::parser: Unable to find the basis set for HE in /home/wv111/local/share/psi//basis/cc-pvdz-jkfit.gbs
-file: /home/wv111/psi4release/src/lib/libmints/basisset_parser.cc
-line: 362
-   Turning off DF and switching to PK method.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  MINTS: Wrapper to libmints.
    by Justin Turney
 
@@ -1324,12 +1300,6 @@ Setting geometry variable R to 2.951613
 
   ==> Integral Setup <==
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-sanity check failed! Gaussian94BasisSetParser::parser: Unable to find the basis set for HE in /home/wv111/local/share/psi//basis/cc-pvdz-jkfit.gbs
-file: /home/wv111/psi4release/src/lib/libmints/basisset_parser.cc
-line: 362
-   Turning off DF and switching to PK method.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  MINTS: Wrapper to libmints.
    by Justin Turney
 
@@ -1617,12 +1587,6 @@ Setting geometry variable R to 3.064516
 
   ==> Integral Setup <==
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-sanity check failed! Gaussian94BasisSetParser::parser: Unable to find the basis set for HE in /home/wv111/local/share/psi//basis/cc-pvdz-jkfit.gbs
-file: /home/wv111/psi4release/src/lib/libmints/basisset_parser.cc
-line: 362
-   Turning off DF and switching to PK method.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  MINTS: Wrapper to libmints.
    by Justin Turney
 
@@ -1910,12 +1874,6 @@ Setting geometry variable R to 3.177419
 
   ==> Integral Setup <==
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-sanity check failed! Gaussian94BasisSetParser::parser: Unable to find the basis set for HE in /home/wv111/local/share/psi//basis/cc-pvdz-jkfit.gbs
-file: /home/wv111/psi4release/src/lib/libmints/basisset_parser.cc
-line: 362
-   Turning off DF and switching to PK method.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  MINTS: Wrapper to libmints.
    by Justin Turney
 
@@ -2203,12 +2161,6 @@ Setting geometry variable R to 3.290323
 
   ==> Integral Setup <==
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-sanity check failed! Gaussian94BasisSetParser::parser: Unable to find the basis set for HE in /home/wv111/local/share/psi//basis/cc-pvdz-jkfit.gbs
-file: /home/wv111/psi4release/src/lib/libmints/basisset_parser.cc
-line: 362
-   Turning off DF and switching to PK method.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  MINTS: Wrapper to libmints.
    by Justin Turney
 
@@ -2496,12 +2448,6 @@ Setting geometry variable R to 3.403226
 
   ==> Integral Setup <==
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-sanity check failed! Gaussian94BasisSetParser::parser: Unable to find the basis set for HE in /home/wv111/local/share/psi//basis/cc-pvdz-jkfit.gbs
-file: /home/wv111/psi4release/src/lib/libmints/basisset_parser.cc
-line: 362
-   Turning off DF and switching to PK method.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  MINTS: Wrapper to libmints.
    by Justin Turney
 
@@ -2789,12 +2735,6 @@ Setting geometry variable R to 3.516129
 
   ==> Integral Setup <==
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-sanity check failed! Gaussian94BasisSetParser::parser: Unable to find the basis set for HE in /home/wv111/local/share/psi//basis/cc-pvdz-jkfit.gbs
-file: /home/wv111/psi4release/src/lib/libmints/basisset_parser.cc
-line: 362
-   Turning off DF and switching to PK method.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  MINTS: Wrapper to libmints.
    by Justin Turney
 
@@ -3082,10 +3022,6 @@ Setting geometry variable R to 3.629032
 
   ==> Integral Setup <==
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-   Turning off DF and switching to PK method.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  MINTS: Wrapper to libmints.
    by Justin Turney
 
@@ -3372,12 +3308,6 @@ Setting geometry variable R to 3.741935
 
   ==> Integral Setup <==
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-sanity check failed! Gaussian94BasisSetParser::parser: Unable to find the basis set for HE in /home/wv111/local/share/psi//basis/cc-pvdz-jkfit.gbs
-file: /home/wv111/psi4release/src/lib/libmints/basisset_parser.cc
-line: 362
-   Turning off DF and switching to PK method.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  MINTS: Wrapper to libmints.
    by Justin Turney
 
@@ -3664,12 +3594,6 @@ Setting geometry variable R to 3.854839
 
   ==> Integral Setup <==
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-sanity check failed! Gaussian94BasisSetParser::parser: Unable to find the basis set for HE in /home/wv111/local/share/psi//basis/cc-pvdz-jkfit.gbs
-file: /home/wv111/psi4release/src/lib/libmints/basisset_parser.cc
-lin
-   Turning off DF and switching to PK method.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  MINTS: Wrapper to libmints.
    by Justin Turney
 
@@ -3956,12 +3880,6 @@ Setting geometry variable R to 3.967742
 
   ==> Integral Setup <==
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-sanity check failed! Gaussian94BasisSetParser::parser: Unable to find the basis set for HE in /home/wv111/local/share/psi//basis/cc-pvdz-jkfit.gbs
-file: /home/wv111/psi4release/src/lib/libmints/basisset_parser.cc
-line: 362
-   Turning off DF and switching to PK method.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  MINTS: Wrapper to libmints.
    by Justin Turney
 
@@ -4248,12 +4166,6 @@ Setting geometry variable R to 4.080645
 
   ==> Integral Setup <==
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-sanity check failed! Gaussian94BasisSetParser::parser: Unable to find the basis set for HE in /home/wv111/local/share/psi//basis/cc-pvdz-jkfit.gbs
-file: /home/wv111/psi4release/src/lib/libmints/basisset_parser.cc
-line: 362
-   Turning off DF and switching to PK method.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  MINTS: Wrapper to libmints.
    by Justin Turney
 
@@ -4540,10 +4452,6 @@ Setting geometry variable R to 4.193548
 
   ==> Integral Setup <==
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-   Turning off DF and switching to PK method.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  MINTS: Wrapper to libmints.
    by Justin Turney
 
@@ -4830,12 +4738,6 @@ Setting geometry variable R to 4.306452
 
   ==> Integral Setup <==
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-sanity check failed! Gaussian94BasisSetParser::parser: Unable to find the basis set for HE in /home/wv111/local/share/psi//basis/cc-pvdz-jkfit.gbs
-file: /home/wv111/psi4release/src/lib/libmints/basisset_parser.cc
-line: 362
-   Turning off DF and switching to PK method.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  MINTS: Wrapper to libmints.
    by Justin Turney
 
@@ -5122,12 +5024,6 @@ Setting geometry variable R to 4.419355
 
   ==> Integral Setup <==
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-sanity check failed! Gaussian94BasisSetParser::parser: Unable to find the basis set for HE in /home/wv111/local/share/psi//basis/cc-pvdz-jkfit.gbs
-file: /home/wv111/psi4release/src/lib/libmints/basisset_parser.cc
-line: 362
-   Turning off DF and switching to PK method.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  MINTS: Wrapper to libmints.
    by Justin Turney
 
@@ -5414,12 +5310,6 @@ Setting geometry variable R to 4.532258
 
   ==> Integral Setup <==
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-sanity check failed! Gaussian94BasisSetParser::parser: Unable to find the basis set for HE in /home/wv111/local/share/psi//basis/cc-pvdz-jkfit.gbs
-file: /home/wv111/psi4release/src/lib/libmints/basisset_parser.cc
-line: 362
-   Turning off DF and switching to PK method.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  MINTS: Wrapper to libmints.
    by Justin Turney
 
@@ -5706,12 +5596,6 @@ Setting geometry variable R to 4.645161
 
   ==> Integral Setup <==
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-sanity check failed! Gaussian94BasisSetParser::parser: Unable to find the basis set for HE in /home/wv111/local/share/psi//basis/cc-pvdz-jkfit.gbs
-file: /home/wv111/psi4release/src/lib/libmints/basisset_parser.cc
-line: 362
-   Turning off DF and switching to PK method.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  MINTS: Wrapper to libmints.
    by Justin Turney
 
@@ -5998,12 +5882,6 @@ Setting geometry variable R to 4.758065
 
   ==> Integral Setup <==
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-sanity check failed! Gaussian94BasisSetParser::parser: Unable to find the basis set for HE in /home/wv111/local/share/psi//basis/cc-pvdz-jkfit.gbs
-file: /home/wv111/psi4release/src/lib/libmints/basisset_parser.cc
-line: 362
-   Turning off DF and switching to PK method.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  MINTS: Wrapper to libmints.
    by Justin Turney
 
@@ -6290,12 +6168,6 @@ Setting geometry variable R to 4.870968
 
   ==> Integral Setup <==
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-sanity check failed! Gaussian94BasisSetParser::parser: Unable to find the basis set for HE in /home/wv111/local/share/psi//basis/cc-pvdz-jkfit.gbs
-file: /home/wv111/psi4release/src/lib/libmints/basisset_parser.cc
-lin
-   Turning off DF and switching to PK method.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  MINTS: Wrapper to libmints.
    by Justin Turney
 
@@ -6582,12 +6454,6 @@ Setting geometry variable R to 4.983871
 
   ==> Integral Setup <==
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-sanity check failed! Gaussian94BasisSetParser::parser: Unable to find the basis set for HE in /home/wv111/local/share/psi//basis/cc-pvdz-jkfit.gbs
-file: /home/wv111/psi4release/src/lib/libmints/basisset_parser.cc
-lin
-   Turning off DF and switching to PK method.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  MINTS: Wrapper to libmints.
    by Justin Turney
 
@@ -6874,12 +6740,6 @@ Setting geometry variable R to 5.096774
 
   ==> Integral Setup <==
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-sanity check failed! Gaussian94BasisSetParser::parser: Unable to find the basis set for HE in /home/wv111/local/share/psi//basis/cc-pvdz-jkfit.gbs
-file: /home/wv111/psi4release/src/lib/libmints/basisset_parser.cc
-line: 362
-   Turning off DF and switching to PK method.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  MINTS: Wrapper to libmints.
    by Justin Turney
 
@@ -7166,12 +7026,6 @@ Setting geometry variable R to 5.209677
 
   ==> Integral Setup <==
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-sanity check failed! Gaussian94BasisSetParser::parser: Unable to find the basis set for HE in /home/wv111/local/share/psi//basis/cc-pvdz-jkfit.gbs
-file: /home/wv111/psi4release/src/lib/libmints/basisset_parser.cc
-lin
-   Turning off DF and switching to PK method.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  MINTS: Wrapper to libmints.
    by Justin Turney
 
@@ -7458,12 +7312,6 @@ Setting geometry variable R to 5.322581
 
   ==> Integral Setup <==
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-sanity check failed! Gaussian94BasisSetParser::parser: Unable to find the basis set for HE in /home/wv111/local/share/psi//basis/cc-pvdz-jkfit.gbs
-file: /home/wv111/psi4release/src/lib/libmints/basisset_parser.cc
-lin
-   Turning off DF and switching to PK method.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  MINTS: Wrapper to libmints.
    by Justin Turney
 
@@ -7750,12 +7598,6 @@ Setting geometry variable R to 5.435484
 
   ==> Integral Setup <==
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-sanity check failed! Gaussian94BasisSetParser::parser: Unable to find the basis set for HE in /home/wv111/local/share/psi//basis/cc-pvdz-jkfit.gbs
-file: /home/wv111/psi4release/src/lib/libmints/basisset_parser.cc
-line: 362
-   Turning off DF and switching to PK method.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  MINTS: Wrapper to libmints.
    by Justin Turney
 
@@ -8042,12 +7884,6 @@ Setting geometry variable R to 5.548387
 
   ==> Integral Setup <==
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-sanity check failed! Gaussian94BasisSetParser::parser: Unable to find the basis set for HE in /home/wv111/local/share/psi//basis/cc-pvdz-jkfit.gbs
-file: /home/wv111/psi4release/src/lib/libmints/basisset_parser.cc
-line: 362
-   Turning off DF and switching to PK method.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  MINTS: Wrapper to libmints.
    by Justin Turney
 
@@ -8334,12 +8170,6 @@ Setting geometry variable R to 5.661290
 
   ==> Integral Setup <==
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-sanity check failed! Gaussian94BasisSetParser::parser: Unable to find the basis set for HE in /home/wv111/local/share/psi//basis/cc-pvdz-jkfit.gbs
-file: /home/wv111/psi4release/src/lib/libmints/basisset_parser.cc
-line: 362
-   Turning off DF and switching to PK method.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  MINTS: Wrapper to libmints.
    by Justin Turney
 
@@ -8626,10 +8456,6 @@ Setting geometry variable R to 5.774194
 
   ==> Integral Setup <==
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-   Turning off DF and switching to PK method.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  MINTS: Wrapper to libmints.
    by Justin Turney
 
@@ -8916,12 +8742,6 @@ Setting geometry variable R to 5.887097
 
   ==> Integral Setup <==
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-sanity check failed! Gaussian94BasisSetParser::parser: Unable to find the basis set for HE in /home/wv111/local/share/psi//basis/cc-pvdz-jkfit.gbs
-file: /home/wv111/psi4release/src/lib/libmints/basisset_parser.cc
-lin
-   Turning off DF and switching to PK method.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  MINTS: Wrapper to libmints.
    by Justin Turney
 
@@ -9208,12 +9028,6 @@ Setting geometry variable R to 6.000000
 
   ==> Integral Setup <==
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-sanity check failed! Gaussian94BasisSetParser::parser: Unable to find the basis set for HE in /home/wv111/local/share/psi//basis/cc-pvdz-jkfit.gbs
-file: /home/wv111/psi4release/src/lib/libmints/basisset_parser.cc
-line: 362
-   Turning off DF and switching to PK method.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  MINTS: Wrapper to libmints.
    by Justin Turney
 
