@@ -1,4 +1,4 @@
-Talk:
+Intro Talk:
 
 What do they need to learn?
 How will it be used?
@@ -40,7 +40,6 @@ Exercise 2
 
 Fitting absoption bands in UV/VIS spectrum
 Fitting a chromatogram to quantify sample
-
 
 Exercise 3
 
