@@ -1,8 +1,0 @@
-(lp0
-S"\n    >>> word_extractor('Zero one two three four five six', [0,1,2])\n    'Zero one two'\n    >>> word_extractor('1. H 0.0 0.0 0.0 Flag1', [1,2,3,4])\n    'H 0.0 0.0 0.0'\n    >>> word_extractor('Python is a dynamic programming language', [0,1,2,-1])\n    'Python is a language'\n    "
-p1
-aS"\n    >>> read_squares('squares_4.txt')\n    [1, 4, 9]\n    >>> read_squares('squares_5.txt')\n    [1, 1, 4]\n    >>> read_squares('squares_6.txt')\n    [36, 1, 1, 0]\n    "
-p2
-aS'\n    >>> import numpy as np; matrix_from_lists([0,1],[0,1],[0,1])\n    array([[0, 1],\n           [0, 1],\n           [0, 1]])\n    >>> import numpy as np; matrix_from_lists([0,1],[0,1])\n    array([[0, 1],\n           [0, 1]])\n    >>> import numpy as np; matrix_from_lists([0,0,0],[1,1,1],[2,2,2])\n    array([[0, 0, 0],\n           [1, 1, 1],\n           [2, 2, 2]])\n    '
-p3
-a.
